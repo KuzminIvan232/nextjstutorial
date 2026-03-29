@@ -59,10 +59,10 @@
 <img width="1470" height="800" alt="image" src="https://github.com/user-attachments/assets/52c5f3c2-5c44-4cb7-b70d-7021124ca60c" />
 
 
-
 14. Improving Accessibility
 
 Покращення доступності форм за допомогою eslint-plugin-jsx-a11y, серверна валідація даних та виведення помилок через useFormState.
+<img width="1147" height="490" alt="image" src="https://github.com/user-attachments/assets/762a02ea-5fd2-4654-a904-de4a2e21305e" />
 
 
 15. Adding Authentication
